@@ -1,0 +1,5 @@
+﻿  vebancoView.cpp
+c:\users\hoangduc\desktop\new folder\caro\vebanco\oco.h(2): warning C4005: 'max': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(193): note: see previous definition of 'max'
+  vebanco.vcxproj -> C:\Users\hoangduc\Desktop\New folder\Caro\Debug\vebanco.exe
+  vebanco.vcxproj -> C:\Users\hoangduc\Desktop\New folder\Caro\Debug\vebanco.pdb (Full PDB)
