@@ -1,9 +1,9 @@
 #include "stdafx.h"
 #include "oco.h"
 
-void oco::hamtest()
+void oco::chucnangmoi()
 {
-	//khong co gi o trong dau ca
+	//chuc nang moi
 }
 void oco::setup(int mx1,int my1,int mx2,int my2)
 {

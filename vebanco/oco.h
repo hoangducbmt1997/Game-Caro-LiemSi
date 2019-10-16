@@ -5,7 +5,7 @@ class oco
 private:
 	int x1,y1,x2,y2;
 public:
-	void hamtest();
+	void chucnangmoi();
 	CPoint point1,point2;
 	void setup(int mx1, int my1, int mx2, int my2);
 	void draw(CClientDC *pDC);
