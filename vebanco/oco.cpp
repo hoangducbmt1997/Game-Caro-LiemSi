@@ -1,6 +1,10 @@
 #include "stdafx.h"
 #include "oco.h"
 
+void oco::hamtest()
+{
+	//khong co gi o trong dau ca
+}
 void oco::setup(int mx1,int my1,int mx2,int my2)
 {
 	x1=mx1;y1=my1;x2=mx2;y2=my2;
